@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Palliye Guruge</h1>
 <h3 align="center">A passionate frontend developer from Srilanka</h3>
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palliyeguruge&label=Profile%20views&color=0e75b6&style=flat" alt="palliyeguruge" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palliyeguruge" alt="palliyeguruge" /></a> </p>
