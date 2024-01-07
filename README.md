@@ -17,9 +17,15 @@
 
 - ⚡ Fun fact **Guru**
 
+- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+
+  
+
 
 <h3 align="left">Languages and Tools:</h3>
 
